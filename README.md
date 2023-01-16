@@ -1,8 +1,9 @@
-# NLAChecker ConfusedCharacter vs Public (Speed)
-### NLAChecker ConfusedCharacter
+# NLAChecker ConfusedCharacter
+![alt](https://raw.githubusercontent.com/ConfusedCharacter/NLAChecker/main/video.gif)
  
- ![alt](https://raw.githubusercontent.com/ConfusedCharacter/NLAChecker/main/video.gif)
 
-### Public NLAChecker
+### NLAChecker ConfusedCharacter vs Public NLA (Speed)
 
-![alt](https://raw.githubusercontent.com/ConfusedCharacter/NLAChecker/main/video2.gif)
+NLAChecker ConfusedCharacter [Watch it](https://raw.githubusercontent.com/ConfusedCharacter/NLAChecker/main/video1.mp4)
+
+Public NLAChecker [Watch it](https://raw.githubusercontent.com/ConfusedCharacter/NLAChecker/main/video2.mp4)
