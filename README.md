@@ -1,5 +1,8 @@
-# NLAChecker
+# NLAChecker ConfusedCharacter vs Public NLA
+### NLAChecker ConfusedCharacter
  
  ![alt](https://raw.githubusercontent.com/ConfusedCharacter/NLAChecker/main/video.gif)
 
-NLAChecker Without any Passing IP with C#
+### Public NLAChecker
+
+![alt](https://raw.githubusercontent.com/ConfusedCharacter/NLAChecker/main/video2.gif)
